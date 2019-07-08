@@ -1,0 +1,52 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#start {
+  margin: 20px;
+}
+#row {
+  margin-right: 20px;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+.inline {
+  float: left;
+  margin-top: 30px;
+}
+
+.btn {
+  border-radius: 50%;
+  padding: 20px;
+  margin: 10px;
+}
+
+.btn-comb {
+  border-radius: 50%;
+  padding: 8px;
+}
+
+#red {
+  background-color: red;
+}
+#green {
+  background-color: green;
+}
+#blue {
+  background-color: blue;
+}
+#yellow {
+  background-color: yellow;
+}
+
+#first {
+  border-radius: 50%;
+
+  height: 50px;
+  width: 50px;
+}
+#check {
+  margin-left: 20px;
+}
